@@ -1,0 +1,13 @@
+Type Name  Age Salary  Bonus   Wage HoursWorked
+M    John  48  6723.34 1000.00
+F    Jean  28  3223.41
+P    Joe   18                  8.25 32
+F    Julia 33  4294.34
+
+c++ employee.o fulltime.o parttime.o manager.o assign6.o -o assign6
+
+
+M John    48  6723.34 1000.00
+F Jean    28  3223.41
+P Joe     18  8.25    32
+F Julia   33  4294.34
